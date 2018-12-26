@@ -1,0 +1,6 @@
+step1- import the libraries
+2-import the dataset
+3-check out the missing value
+4-see the categorical value
+5-splitting the dataset into training and test set
+6-featue scaling
